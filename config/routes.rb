@@ -1,3 +1,3 @@
 Rails.application.routes.draw do
-  get 'hello_world'
+  get 'hello_world', to: 
 end
